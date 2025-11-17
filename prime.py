@@ -18,6 +18,6 @@ def is_prime(n: int) -> bool:
 if __name__ == "__main__":
     num = 7
     print("Primo!" if is_prime(num) else "Não é primo.")
-    num = 8
+    num = 9
     print("Primo!" if is_prime(num) else "Não é primo.")
 
